@@ -1,18 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Gutiérrez Ibáñez;Vivian;;;
-FN:Vivian Gutiérrez Ibáñez
-TITLE:Ingeniera Civil Industrial | Ingeniera en Informática | IA Generativ
- a aplicada a Producto
+N;CHARSET=UTF-8:Gutiérrez Ibáñez;Vivian;;;
+FN;CHARSET=UTF-8:Vivian Gutiérrez Ibáñez
+TITLE;CHARSET=UTF-8:Ingeniera Civil Industrial | Ingeniera en Informática | IA Generativa aplicada a Producto
 TEL;TYPE=CELL,VOICE:+56966462650
 EMAIL;TYPE=INTERNET,WORK:vivian.gutierrez.ibanez@gmail.com
 URL;TYPE=LinkedIn:https://www.linkedin.com/in/viviangutierrez
 X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/viviangutierrez
-ADR;TYPE=WORK:;;;Santiago;;;Chile
-NOTE:Más de 15 años construyendo productos digitales como Product Owner S
- enior\, Tech Lead\, Business Analyst y desarrolladora en banca\, seguros\,
-  retail y tecnología. Integro IA generativa al ciclo completo de producto
- \, del discovery a la validación.
+NOTE;CHARSET=UTF-8:Más de 15 años construyendo productos digitales como Product Owner Senior\, Tech Lead\, Business Analyst y desarrolladora en banca\, seguros\, retail y tecnología. Integro IA generativa al ciclo completo de producto\, del discovery a la validación.
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYH
  BwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2w
  BDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo
